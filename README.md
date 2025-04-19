@@ -1,4 +1,4 @@
-# 🤖💬 [Awesome Chatbot AI Tools](https://submitaitools.org/category/best-chatbot-tools)
+# 🤖💬 Awesome [Chatbot AI Tools](https://submitaitools.org/category/best-chatbot-tools)
 
 A curated list of awesome AI chatbots for conversations, characters, relationships, fun, and creativity.
 
