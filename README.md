@@ -23,6 +23,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 
 **Top Tools:**
 - [Replika](https://replika.com/)
+- [Kissable](https://kissable.app/) - AI companion with persistent memory, photo/video generation, community scenarios, and emotional voice calls.
 - [Anima AI](https://animaapp.ai/)
 - [iGirl](https://apps.apple.com/app/igirl/id1558955584)
 - [Romantic AI](https://romanticai.com/)
@@ -61,6 +62,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [Character.AI](https://beta.character.ai/)
 - [Inworld AI](https://www.inworld.ai/)
 - [Janitor AI](https://janitorai.com/)
+- [Kissable](https://kissable.app/) - Community scenario catalog with creator tools, lorebook, NPCs, and branching storylines.
 - [Chai](https://chai.ml/)
 - [Botify AI](https://botify.ai/)
 
