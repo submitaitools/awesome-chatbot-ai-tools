@@ -11,6 +11,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 
 **Top Tools:**
 - [ChatGPT](https://chat.openai.com/)
+- [Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
 - [Claude](https://claude.ai/)
 - [Google Gemini](https://deepmind.google/discover/gemini/)
 - [Perplexity AI](https://www.perplexity.ai/)
