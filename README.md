@@ -13,6 +13,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [ChatGPT](https://chat.openai.com/)
 - [Claude](https://claude.ai/)
 - [Google Gemini](https://deepmind.google/discover/gemini/)
+- [GPTGeminiGrok.AI](https://trygrokai.asia/)
 - [Perplexity AI](https://www.perplexity.ai/)
 - [YouChat](https://you.com/)
 
