@@ -59,6 +59,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 
 **Top Tools:**
 - [Character.AI](https://beta.character.ai/)
+- [WSUP AI](https://wsupai.app/) — Free AI character chat in the browser, no sign up. SFW only.
 - [Inworld AI](https://www.inworld.ai/)
 - [Janitor AI](https://janitorai.com/)
 - [Chai](https://chai.ml/)
