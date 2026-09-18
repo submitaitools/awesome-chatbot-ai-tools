@@ -15,6 +15,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [Google Gemini](https://deepmind.google/discover/gemini/)
 - [Perplexity AI](https://www.perplexity.ai/)
 - [YouChat](https://you.com/)
+- [Orkas](https://orkas.ai/?source=gh_sachat) - Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
 
 ---
 
