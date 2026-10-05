@@ -10,6 +10,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 **Description:** Smart conversational agents powered by AI that can answer questions, provide support, or engage in general conversation.
 
 **Top Tools:**
+- [AI Group Call](https://aigroupcall.app) - Practice pitches and interviews against a panel of AI voices that push back live, then share the transcript.
 - [ChatGPT](https://chat.openai.com/)
 - [Claude](https://claude.ai/)
 - [Google Gemini](https://deepmind.google/discover/gemini/)
