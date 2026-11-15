@@ -27,6 +27,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [iGirl](https://apps.apple.com/app/igirl/id1558955584)
 - [Romantic AI](https://romanticai.com/)
 - [Kupid AI](https://kupid.ai/)
+- [Sammi: AI Girlfriend](https://sammiai.app/)
 
 ---
 
